@@ -1,0 +1,15 @@
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\bin\Release\net6.0\DesarrolloWeb.exe
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\bin\Release\net6.0\DesarrolloWeb.deps.json
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\bin\Release\net6.0\DesarrolloWeb.runtimeconfig.json
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\bin\Release\net6.0\DesarrolloWeb.dll
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\bin\Release\net6.0\DesarrolloWeb.pdb
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\obj\Release\net6.0\DesarrolloWeb.csproj.AssemblyReference.cache
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\obj\Release\net6.0\DesarrolloWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\obj\Release\net6.0\DesarrolloWeb.AssemblyInfoInputs.cache
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\obj\Release\net6.0\DesarrolloWeb.AssemblyInfo.cs
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\obj\Release\net6.0\DesarrolloWeb.csproj.CoreCompileInputs.cache
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\obj\Release\net6.0\DesarrolloWeb.dll
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\obj\Release\net6.0\refint\DesarrolloWeb.dll
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\obj\Release\net6.0\DesarrolloWeb.pdb
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\obj\Release\net6.0\DesarrolloWeb.genruntimeconfig.cache
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\obj\Release\net6.0\ref\DesarrolloWeb.dll

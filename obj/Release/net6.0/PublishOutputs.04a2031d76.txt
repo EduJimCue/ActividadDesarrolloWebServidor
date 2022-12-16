@@ -1,0 +1,5 @@
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\bin\Release\net6.0\publish\DesarrolloWeb.exe
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\bin\Release\net6.0\publish\DesarrolloWeb.dll
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\bin\Release\net6.0\publish\DesarrolloWeb.deps.json
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\bin\Release\net6.0\publish\DesarrolloWeb.runtimeconfig.json
+C:\Users\edu_9\OneDrive\Escritorio\DesarrolloWeb\bin\Release\net6.0\publish\DesarrolloWeb.pdb
