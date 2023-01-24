@@ -1,0 +1,20 @@
+[
+{"Name":"Karate para principiantes",
+"Teacher":{"Name":"Profesor","Username":"Profe","Password":"1111","SignUpDate":"0001-01-01T00:00:00","UserNumber":0,"Role":true},
+"Description":"Clase para de karate para principiantes",
+"Hour":14,
+"Minute":30,
+"Capacity":20},
+{"Name":"Zumba",
+"Teacher":{"Name":"Profesor","Username":"Profe","Password":"1111","SignUpDate":"0001-01-01T00:00:00","UserNumber":0,"Role":true},
+"Description":"Clase para de zumba para todos los niveles",
+"Hour":17,
+"Minute":45,
+"Capacity":50},
+{"Name":"Crossfit",
+"Teacher":{"Name":"Profesor","Username":"Profe","Password":"1111","SignUpDate":"0001-01-01T00:00:00","UserNumber":0,"Role":true},
+"Description":"Clase de Crossfit para gente con buen nivel fisico",
+"Hour":19,
+"Minute":30,
+"Capacity":10}
+]
