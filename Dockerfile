@@ -11,6 +11,7 @@ RUN dotnet publish -c Release -o out
 
 # Build runtime image
 FROM mcr.microsoft.com/dotnet/aspnet:6.0
+ENV variable=valorAdjudicado
 WORKDIR /DesarrolloWeb
 EXPOSE 6376
 COPY --from=build-env /DesarrolloWeb/out .
