@@ -14,4 +14,5 @@ FROM mcr.microsoft.com/dotnet/aspnet:6.0
 WORKDIR /DesarrolloWeb
 EXPOSE 6376
 COPY --from=build-env /DesarrolloWeb/out .
+VOLUME [ "/volume" ]
 ENTRYPOINT ["dotnet", "DesarrolloWeb.dll"]

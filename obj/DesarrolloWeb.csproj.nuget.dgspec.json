@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\DesarrolloWeb\\DesarrolloWeb.csproj": {}
+    "C:\\Users\\edu_9\\OneDrive\\Escritorio\\DesarrolloWeb - guarreo\\DesarrolloWeb.csproj": {}
   },
   "projects": {
-    "H:\\DesarrolloWeb\\DesarrolloWeb.csproj": {
+    "C:\\Users\\edu_9\\OneDrive\\Escritorio\\DesarrolloWeb - guarreo\\DesarrolloWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\DesarrolloWeb\\DesarrolloWeb.csproj",
+        "projectUniqueName": "C:\\Users\\edu_9\\OneDrive\\Escritorio\\DesarrolloWeb - guarreo\\DesarrolloWeb.csproj",
         "projectName": "DesarrolloWeb",
-        "projectPath": "H:\\DesarrolloWeb\\DesarrolloWeb.csproj",
+        "projectPath": "C:\\Users\\edu_9\\OneDrive\\Escritorio\\DesarrolloWeb - guarreo\\DesarrolloWeb.csproj",
         "packagesPath": "C:\\Users\\edu_9\\.nuget\\packages\\",
-        "outputPath": "H:\\DesarrolloWeb\\obj\\",
+        "outputPath": "C:\\Users\\edu_9\\OneDrive\\Escritorio\\DesarrolloWeb - guarreo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edu_9\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.45.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

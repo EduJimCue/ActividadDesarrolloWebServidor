@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "e5LUDB5Ak62wHHWpGvjGUKbArndiWh/3Efb95xrCKPJC7a1uTKh5a7SnLH+C4/TdzSZ/KkfitL7fCS978vpQYA==",
+  "dgSpecHash": "nQ0kG4C0FLeHp32EuHwH3lcUGtIetlIecy5TY0rzkRz5t/UeSIFueBO2KV5FsjOzJnd4d054F0bA2cq7Z9dXvg==",
   "success": true,
-  "projectFilePath": "H:\\DesarrolloWeb\\DesarrolloWeb.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\edu_9\\OneDrive\\Escritorio\\DesarrolloWeb - guarreo\\DesarrolloWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edu_9\\.nuget\\packages\\spectre.console\\0.45.0\\spectre.console.0.45.0.nupkg.sha512",
+    "C:\\Users\\edu_9\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
   "logs": []
 }
